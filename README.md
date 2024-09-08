@@ -1,6 +1,6 @@
 # UOM-MSc-ACSE-Dissertation
 ## Dissertation Title:
-**Deep Learning**
+**Data-Driven Battery State of Health Predictor Using Deep Learning Methods**
 
 
 The work presented in this dissertation makes significant contributions to the fields of deep learning and battery health prognostics.
